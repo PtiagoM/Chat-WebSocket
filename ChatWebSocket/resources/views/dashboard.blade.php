@@ -16,7 +16,7 @@
             <br>
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg w-24">
                 <div class="p-2 text-gray-900 dark:text-gray-100 text-center">
-                    <a href="{{ route('chatify') }}">
+                    <a href="{{ route('chatify') }}"> <!--Botão com rota para entrar no chat-->
                         <button class="text-center">Chat</button>
                     </a>
                 </div>
